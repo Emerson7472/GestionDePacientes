@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GestionDePacientes", "GestionDePacientes\GestionDePacientes.csproj", "{CCD497DB-519F-4459-808C-2A194CA3DAAC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".gitignore", ".gitignore", "{3EC42F47-BD5F-4746-912C-A0D6965CAA3B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "assets/imagenes", "assets/imagenes", "{49565BDA-712F-49EE-BFE9-14D6345833F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCD497DB-519F-4459-808C-2A194CA3DAAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCD497DB-519F-4459-808C-2A194CA3DAAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCD497DB-519F-4459-808C-2A194CA3DAAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCD497DB-519F-4459-808C-2A194CA3DAAC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
