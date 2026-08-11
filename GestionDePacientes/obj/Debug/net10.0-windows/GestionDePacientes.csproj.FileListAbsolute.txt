@@ -1,0 +1,15 @@
+C:\Users\emels\RiderProjects\WinFormsApp6\GestionDePacientes\bin\Debug\net10.0-windows\GestionDePacientes.exe
+C:\Users\emels\RiderProjects\WinFormsApp6\GestionDePacientes\bin\Debug\net10.0-windows\GestionDePacientes.deps.json
+C:\Users\emels\RiderProjects\WinFormsApp6\GestionDePacientes\bin\Debug\net10.0-windows\GestionDePacientes.runtimeconfig.json
+C:\Users\emels\RiderProjects\WinFormsApp6\GestionDePacientes\bin\Debug\net10.0-windows\GestionDePacientes.dll
+C:\Users\emels\RiderProjects\WinFormsApp6\GestionDePacientes\bin\Debug\net10.0-windows\GestionDePacientes.pdb
+C:\Users\emels\RiderProjects\WinFormsApp6\GestionDePacientes\obj\Debug\net10.0-windows\GestionDePacientes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emels\RiderProjects\WinFormsApp6\GestionDePacientes\obj\Debug\net10.0-windows\GestionDePacientes.AssemblyInfoInputs.cache
+C:\Users\emels\RiderProjects\WinFormsApp6\GestionDePacientes\obj\Debug\net10.0-windows\GestionDePacientes.AssemblyInfo.cs
+C:\Users\emels\RiderProjects\WinFormsApp6\GestionDePacientes\obj\Debug\net10.0-windows\GestionDePacientes.csproj.CoreCompileInputs.cache
+C:\Users\emels\RiderProjects\WinFormsApp6\GestionDePacientes\obj\Debug\net10.0-windows\GestionDePacientes.sourcelink.json
+C:\Users\emels\RiderProjects\WinFormsApp6\GestionDePacientes\obj\Debug\net10.0-windows\GestionDePacientes.dll
+C:\Users\emels\RiderProjects\WinFormsApp6\GestionDePacientes\obj\Debug\net10.0-windows\refint\GestionDePacientes.dll
+C:\Users\emels\RiderProjects\WinFormsApp6\GestionDePacientes\obj\Debug\net10.0-windows\GestionDePacientes.pdb
+C:\Users\emels\RiderProjects\WinFormsApp6\GestionDePacientes\obj\Debug\net10.0-windows\GestionDePacientes.genruntimeconfig.cache
+C:\Users\emels\RiderProjects\WinFormsApp6\GestionDePacientes\obj\Debug\net10.0-windows\ref\GestionDePacientes.dll
