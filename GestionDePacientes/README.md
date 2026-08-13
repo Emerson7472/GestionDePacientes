@@ -53,8 +53,6 @@ El sistema ejecuta la lógica de negocio mediante la clase gestora (`GestorPacie
 
 ## Capturas de Pantalla
 
-> *Nota: Guarda las capturas en una carpeta llamada `docs` dentro de tu repositorio para vincularlas aquí.*
-
 ### 1. Formulario Principal y Listado de Pacientes
 ![Listado General](docs/FormularioPrincipal.png)
 
