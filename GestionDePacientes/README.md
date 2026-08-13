@@ -37,12 +37,11 @@ El sistema ejecuta la lógica de negocio mediante la clase gestora (`GestorPacie
 1. **Validaciones de Entrada:** Comprobación de campos obligatorios, conversión de datos numéricos y verificación de no duplicidad del ID.
 2. **Manejo de Excepciones:** Tratamiento de errores mediante bloques `try-catch` y excepciones personalizadas (`PacienteNoEncontradoException`, `PacienteDuplicadoException`).
 3. **Operaciones CRUD:**
-    * **Crear:** Instanciación y adición de objetos `Paciente` en la lista dinámica `List<Paciente>`.
-    * **Leer / Consultar:** Consultas y filtrado dinámico mediante expresiones LINQ.
-    * **Actualizar:** Búsqueda en memoria y modificación de las propiedades del objeto seleccionado.
-    * **Eliminar:** Remoción del objeto en la lista dinámica tras confirmación del usuario.
+* **Crear:** Instanciación y adición de objetos `Paciente` en la lista dinámica `List<Paciente>`.
+* **Leer / Consultar:** Consultas y filtrado dinámico mediante expresiones LINQ.
+* **Actualizar:** Búsqueda en memoria y modificación de las propiedades del objeto seleccionado.
+* **Eliminar:** Remoción del objeto en la lista dinámica tras confirmación del usuario.
 
----
 
 ## Datos de Salida
 * **DataGridView:** Muestra los registros almacenados o los resultados de las búsquedas en formato tabular.
@@ -51,7 +50,6 @@ El sistema ejecuta la lógica de negocio mediante la clase gestora (`GestorPacie
     * Diálogos de confirmación (`Question`) con botones `Sí/No` para verificar eliminaciones y preguntar si el usuario desea realizar otra transacción.
     * Mensajes de advertencia o error (`Warning` / `Error`) en caso de excepciones o fallas de validación.
 
----
 
 ## Capturas de Pantalla
 

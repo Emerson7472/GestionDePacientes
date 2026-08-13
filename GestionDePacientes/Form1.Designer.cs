@@ -339,16 +339,18 @@
             // 
             AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
             AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            BackColor = System.Drawing.Color.LimeGreen;
             ClientSize = new System.Drawing.Size(1099, 669);
             Controls.Add(btnSalir);
             Controls.Add(dgvPacientes);
             Controls.Add(grpBusqueda);
             Controls.Add(grpDatos);
+            ForeColor = System.Drawing.Color.Black;
             FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             MaximizeBox = false;
             StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            Text = "Sistema de Gestión de Pacientes - Centro medico UCE";
+            Text = "Sistema de Gestión de Pacientes - Centro Medico UCE";
             grpDatos.ResumeLayout(false);
             grpDatos.PerformLayout();
             grpBusqueda.ResumeLayout(false);

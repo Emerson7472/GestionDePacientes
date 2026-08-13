@@ -5,9 +5,8 @@ using System.Windows.Forms;
 
 namespace GestionDePacientes
 {
-    // ==========================================
     // 1. ENUMERACIONES (Modelan atributos predefinidos)
-    // ==========================================
+    
     public enum Sexo
     {
         Masculino,
@@ -22,9 +21,8 @@ namespace GestionDePacientes
         Hospitalizado
     }
 
-    // ==========================================
     // 2. EXCEPCIONES PERSONALIZADAS
-    // ==========================================
+    
     public class PacienteNoEncontradoException : Exception
     {
         public PacienteNoEncontradoException(string mensaje) : base(mensaje) { }
@@ -35,9 +33,8 @@ namespace GestionDePacientes
         public PacienteDuplicadoException(string mensaje) : base(mensaje) { }
     }
 
-    // ==========================================
     // 3. CLASE MODELO (Paciente)
-    // ==========================================
+    
     public class Paciente
     {
         public string Id { get; set; }
@@ -65,9 +62,8 @@ namespace GestionDePacientes
         }
     }
 
-    // ==========================================
     // 4. CLASE DE LÓGICA DE NEGOCIO (GestorPacientes)
-    // ==========================================
+    
     public class GestorPacientes
     {
         private List<Paciente> listaPacientes;
@@ -139,9 +135,8 @@ namespace GestionDePacientes
         }
     }
 
-    // ==========================================
     // 5. CLASE DE INTERFAZ GRÁFICA (Form1)
-    // ==========================================
+    
     public partial class Form1 : Form
     {
         private GestorPacientes gestor;
