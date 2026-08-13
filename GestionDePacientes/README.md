@@ -5,10 +5,10 @@
 >>> Nombre Completo | Matrícula <<<
 _________________________________________
 >>>Emerson Ciriaco Ortiz (2026-1222)
->>>Nombre y matricula
->>>Nombre y matricula
->>>Nombre y matricula
->>>Nombre y matricula
+>>>Carlos Rafael Benitez (2026-0483)
+>>>Danyeli R. Luna Galvez (2026-0227)
+>>>Hassiel Morla (2024-3993)
+>>>Cesar Jimenez (2026-0067)
 
 
 **Asignatura:** Programación Básica  
@@ -56,19 +56,19 @@ El sistema ejecuta la lógica de negocio mediante la clase gestora (`GestorPacie
 > *Nota: Guarda las capturas en una carpeta llamada `docs` dentro de tu repositorio para vincularlas aquí.*
 
 ### 1. Formulario Principal y Listado de Pacientes
-![Listado General](docs/01_listado_general.png)
+![Listado General](docs/FormularioPrincipal.png)
 
 ### 2. Registro de un Nuevo Paciente
-![Registro de Paciente](docs/02_registro_paciente.png)
+![Registro de Paciente](docs/RegistroPaciente.png)
 
 ### 3. Búsqueda y Filtrado (por ID o Nombre)
-![Búsqueda de Paciente](docs/03_busqueda_paciente.png)
+![Búsqueda de Paciente](docs/Busqueda.png)
 
 ### 4. Actualización de Datos
-![Actualización de Paciente](docs/04_actualizacion_paciente.png)
+![Actualización de Paciente](docs/ActualizacionDatos.png)
 
 ### 5. Confirmación y Eliminación de Registro
-![Eliminación de Paciente](docs/05_eliminacion_paciente.png)
+![Eliminación de Paciente](docs/EliminacionRegistro.png)
 
 ### 6. Validaciones y Mensajes de Excepción
-![Mensaje de Error](docs/06_validacion_error.png)
+![Mensaje de Error](docs/MensajeError.png)
